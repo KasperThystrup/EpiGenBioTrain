@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+dependencies:
+  - blast
+  - kma
+  - resfinder
+  - virulencefinder
+
+
